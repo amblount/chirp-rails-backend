@@ -91,7 +91,7 @@ Sample Response:
 ```json
 [
 	{
-		"id"1,
+		"id":1,
 		"email":"fake@gmail.com",
 		"name":"Karen",
 		"created_at":"2016-11-16T22:36:03.936Z",
@@ -99,7 +99,7 @@ Sample Response:
 		"auth_token":null
 	},
 	{
-		"id"2,
+		"id":2,
 		"email":"fake1@gmail.com",
 		"name":"Sam",
 		"created_at":"2016-11-16T22:36:04.096Z",
